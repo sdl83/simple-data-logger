@@ -1,7 +1,7 @@
 #define SENSORPIN A0
 
 unsigned long targetTime=0;
-const unsigned long intervall=5000;
+const unsigned long intervall=2000;
 void setup(){
 Serial.begin(115200);
 }

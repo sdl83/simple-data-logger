@@ -2,7 +2,11 @@
 # Logs
 logs
 *.log
-*.csv
+
+# Enable this so that you data is not uploaded to github
+# *.csv 
+
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

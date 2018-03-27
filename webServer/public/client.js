@@ -14,11 +14,13 @@ var vlSpec ={
     "x": {
       "timeUnit":"utcyearmonthdatehoursminutessecondsmilliseconds",
       "field": "date",
-      "type": "temporal"
+      "type": "temporal",
+      "axis": {"title": "Time"}
     },
     "y": {
       "field": "value",
-      "type": "quantitative"
+      "type": "quantitative",
+      "axis": {"title": "Distance (cm)"}
     }
   }
   };

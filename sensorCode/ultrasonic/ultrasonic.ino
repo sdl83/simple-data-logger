@@ -39,10 +39,8 @@ void loop() {
 //  else {
   
   if(millis()>=targetTime){
-    if (distance >= 200){
-      Serial.println(200);
-    } else if (distance <= 0) {
-      Serial.println(0);
+    if (distance >= 200 || distance <= 0){
+      
     }
     else {
       Serial.println(distance);

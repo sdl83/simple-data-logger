@@ -1,0 +1,12 @@
+Opened file
+Opened file
+(node:1858) UnhandledPromiseRejectionWarning: Error: Error Resource temporarily unavailable Cannot lock port
+(node:1858) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:1858) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Opened file
+Opened file
+Opened file
+(node:2541) UnhandledPromiseRejectionWarning: Error: Error: No such file or directory, cannot open /dev/ttyUSB0
+(node:2541) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:2541) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Opened file
